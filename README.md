@@ -133,7 +133,7 @@ function fancyAlert(arg) {
   -เสร็จแล้วปิดไปตักใส่ชามที่เตรียมไว้
   -แต่งหน้าด้วยต้นหมอผักชี เพื่อเพิ่มความหอม
  ภาพ
- (https://060a1810-a-62cb3a1a-s-sites.googlegroups.com/site/sirinthipchu/home/20424816_336559016799006_997348919_o.jpg?attachauth=ANoY7cq5DVbp5OFpSIUDKIcoutO5ELKr8YNszzwhrBfnupEfFdzl4BGv5q7kfJZKY-m0e2eTAz_8UW5GsDD1P0lBu0ruQEE9YOoO6HA2w0iy3rKfsW_UAekZJVp1WjWkcrMLhqqwEKOpXgNUbxMS0iQ_1XGMeCOoWYwCyG6wDdLPZg00LMjqGidx5UYaPHupzMXBuQx4926SUde1--ADIzFAWBvkk_WTwn-dtTGx-pDID1F5NRjial15yayphK9Gn4XMsAwmLLdK&attredirects=0)
+ (https://sites.google.com/site/sirinthipchu/_/rsrc/1501128908487/home/20424816_336559016799006_997348919_o.jpg)
  
  สิ่งที่ได้รับจากสัปดาห์นี้
 1.ได้รู้ถึงพื้นฐานการเขียนและการออกเเบบเกี่ยวกับGithub Markdown
